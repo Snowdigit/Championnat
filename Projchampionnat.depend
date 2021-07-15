@@ -1,0 +1,292 @@
+# depslib dependency file v1.0
+1619156156 source:c:\users\user\desktop\projchampionnat\class\equipe.cpp
+	<iostream>
+	"Equipe.h"
+	<string>
+	<sstream>
+	"../sqlite/sqlite/sqlite3.h"
+
+1619155265 source:c:\users\user\desktop\projchampionnat\class\championnat.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Championnat.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1618858593 c:\users\user\desktop\projchampionnat\sqlite\sqlite\sqlite3.h
+	<stdarg.h>
+
+1619131883 c:\users\user\desktop\projchampionnat\class\championnat.h
+	<string>
+
+1619160900 source:c:\users\user\desktop\projchampionnat\main.cpp
+	<iostream>
+	"sqlite/sqlite/sqlite3.h"
+	<string>
+	"class/Resultat.h"
+	"class/Division.h"
+	"class/Saison.h"
+	"class/Equipe.h"
+	"class/Championnat.h"
+	"class/Appartenir.h"
+	"class/Connecter.h"
+
+1619160747 c:\users\user\desktop\projchampionnat\class\saison.h
+	<string>
+
+1619156156 c:\users\user\desktop\projchampionnat\class\equipe.h
+	<string>
+
+1618858593 source:c:\users\user\desktop\projchampionnat\sqlite\sqlite\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1619092772 source:c:\users\user\desktop\projchampionnat\class\appartenir.cpp
+	<iostream>
+	<string>
+	"Appartenir.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1619087935 c:\users\user\desktop\projchampionnat\class\appartenir.h
+
+1619131842 source:c:\users\user\desktop\projchampionnat\class\division.cpp
+	"Division.h"
+	<iostream>
+	<string>
+	<sstream>
+	"../sqlite/sqlite/sqlite3.h"
+
+1619111417 c:\users\user\desktop\projchampionnat\class\division.h
+	<string>
+
+1619095472 source:c:\users\user\desktop\projchampionnat\class\resultat.cpp
+	<iostream>
+	<string>
+	"Resultat.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1619095323 c:\users\user\desktop\projchampionnat\class\resultat.h
+	<string>
+
+1619160825 source:c:\users\user\desktop\projchampionnat\class\saison.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Saison.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1619093776 c:\users\user\desktop\projchampionnat\class\connecter.h
+	"../sqlite/sqlite/sqlite3.h"
+
+1619093776 source:c:\users\user\desktop\projchampionnat\class\connecter.cpp
+	<iostream>
+	<string>
+	"Connecter.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1620033450 source:e:\bureau\soum cpp\projchampionnat\class\appartenir.cpp
+	"Appartenir.h"
+
+1619530116 e:\bureau\soum cpp\projchampionnat\class\appartenir.h
+	<iostream>
+	<string>
+	"../sqlite/sqlite/sqlite3.h"
+	<sstream>
+	"lib/termcolor/termcolor.hpp"
+
+1618858593 e:\bureau\soum cpp\projchampionnat\sqlite\sqlite\sqlite3.h
+	<stdarg.h>
+
+1619829237 source:e:\bureau\soum cpp\projchampionnat\class\championnat.cpp
+	"Championnat.h"
+
+1619736518 e:\bureau\soum cpp\projchampionnat\class\championnat.h
+	<string>
+	<iostream>
+	<string>
+	<sstream>
+	"../sqlite/sqlite/sqlite3.h"
+	"lib/termcolor/termcolor.hpp"
+
+1619093776 source:e:\bureau\soum cpp\projchampionnat\class\connecter.cpp
+	<iostream>
+	<string>
+	"Connecter.h"
+	"../sqlite/sqlite/sqlite3.h"
+
+1619093776 e:\bureau\soum cpp\projchampionnat\class\connecter.h
+	"../sqlite/sqlite/sqlite3.h"
+
+1619829005 source:e:\bureau\soum cpp\projchampionnat\class\division.cpp
+	"Division.h"
+
+1619710847 e:\bureau\soum cpp\projchampionnat\class\division.h
+	<iostream>
+	<string>
+	<sstream>
+	"lib/termcolor/termcolor.hpp"
+	"../sqlite/sqlite/sqlite3.h"
+
+1619828991 source:e:\bureau\soum cpp\projchampionnat\class\equipe.cpp
+	"Equipe.h"
+
+1619710703 e:\bureau\soum cpp\projchampionnat\class\equipe.h
+	<string>
+	<iostream>
+	"lib/termcolor/termcolor.hpp"
+	<sstream>
+	"../sqlite/sqlite/sqlite3.h"
+
+1619830334 source:e:\bureau\soum cpp\projchampionnat\class\resultat.cpp
+	"Resultat.h"
+
+1619737714 e:\bureau\soum cpp\projchampionnat\class\resultat.h
+	<string>
+	<iostream>
+	"../sqlite/sqlite/sqlite3.h"
+	<sstream>
+	"lib/termcolor/termcolor.hpp"
+
+1619828991 source:e:\bureau\soum cpp\projchampionnat\class\saison.cpp
+	"Saison.h"
+
+1619721766 e:\bureau\soum cpp\projchampionnat\class\saison.h
+	<string>
+	<iostream>
+	"../sqlite/sqlite/sqlite3.h"
+	<sstream>
+	"lib/termcolor/termcolor.hpp"
+
+1620073985 source:e:\bureau\soum cpp\projchampionnat\main.cpp
+	<iostream>
+	"sqlite/sqlite/sqlite3.h"
+	"class/lib/termcolor/termcolor.hpp"
+	<string>
+	"class/Resultat.h"
+	"class/Division.h"
+	"class/Saison.h"
+	"class/Equipe.h"
+	"class/Championnat.h"
+	"class/Appartenir.h"
+
+1618858593 source:e:\bureau\soum cpp\projchampionnat\sqlite\sqlite\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1554841062 e:\bureau\soum cpp\projchampionnat\class\lib\termcolor\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<iostream>
+	<cstdio>
+

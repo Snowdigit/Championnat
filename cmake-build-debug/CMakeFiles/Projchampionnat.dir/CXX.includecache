@@ -1,0 +1,198 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../class/lib/sqlite3.h
+stdarg.h
+-
+
+../class/lib/sqlite3ext.h
+sqlite3.h
+../class/lib/sqlite3.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Appartenir.cpp
+Appartenir.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Appartenir.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Appartenir.h
+iostream
+-
+string
+-
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+sstream
+-
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Championnat.cpp
+Championnat.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Championnat.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Championnat.h
+string
+-
+iostream
+-
+string
+-
+sstream
+-
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Division.cpp
+Division.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Division.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Division.h
+iostream
+-
+string
+-
+sstream
+-
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Equipe.cpp
+Equipe.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Equipe.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Equipe.h
+string
+-
+iostream
+-
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+sstream
+-
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Resultat.cpp
+Resultat.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Resultat.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Resultat.h
+string
+-
+iostream
+-
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+sstream
+-
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Saison.cpp
+Saison.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Saison.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Saison.h
+string
+-
+iostream
+-
+../sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+sstream
+-
+lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3pp.cpp
+cstring
+-
+memory
+-
+sqlite3pp.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3pp.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3pp.h
+functional
+-
+iterator
+-
+stdexcept
+-
+string
+-
+tuple
+-
+sqlite3ext.h
+-
+sqlite3.h
+-
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3ppext.cpp
+cstring
+-
+sqlite3ppext.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3ppext.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3ppext.h
+cstddef
+-
+map
+-
+memory
+-
+tuple
+-
+type_traits
+-
+utility
+-
+sqlite3pp.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/sqlite3pp.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+unistd.h
+-
+io.h
+-
+windows.h
+-
+iostream
+-
+cstdio
+-
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/main.cpp
+iostream
+-
+sqlite/sqlite/sqlite3.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+class/lib/termcolor/termcolor.hpp
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/lib/termcolor/termcolor.hpp
+string
+-
+class/Resultat.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Resultat.h
+class/Division.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Division.h
+class/Saison.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Saison.h
+class/Equipe.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Equipe.h
+class/Championnat.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Championnat.h
+class/Appartenir.h
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/class/Appartenir.h
+
+E:/cours idsi/semestre2/c++/projet cpp Soum LawaLy Balo/Projchampionnat/sqlite/sqlite/sqlite3.h
+stdarg.h
+-
+
